@@ -1,3 +1,7 @@
+# Logan's additions
+data/
+
+# GitHub defaults
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
