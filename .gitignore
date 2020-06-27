@@ -1,5 +1,6 @@
 # Logan's additions
 data/
+*.DS_Store
 
 # GitHub defaults
 # Byte-compiled / optimized / DLL files
